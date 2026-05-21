@@ -2,8 +2,8 @@
 
 **Course:** MH6822 Regulatory Technology  
 **Student:** Anandan Eruchamma Bhuvaneswari
-**Matriculation ID:**G2506438A
-**Email ID:**anandane001@e.ntu.edu.sg
+**Matriculation ID:** G2506438A
+**Email ID:** anandane001@e.ntu.edu.sg
 **Project option:** Option B - Architecture Design with prototype notebook  
 **Entity:** HSBC Holdings plc, focusing on HSBC Bank USA, N.A. and HSBC UK Bank plc  
 **Domain:** Fair Lending / Algorithmic Fairness in Credit Scoring
